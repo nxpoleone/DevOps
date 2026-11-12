@@ -1,0 +1,82 @@
+[
+  {
+    "id_transacao": "TX1001",
+    "cliente": "Carlos Eduardo Silva",
+    "cpf": "12345678901",
+    "idade": 25,
+    "valor_bruto": 150.0,
+    "categoria": "eletronicos"
+  },
+  {
+    "id_transacao": "TX1002",
+    "cliente": "Ana Maria Souza",
+    "cpf": "98765432100",
+    "idade": 17,
+    "valor_bruto": 80.0,
+    "categoria": "livros"
+  },
+  {
+    "id_transacao": "TX1003",
+    "cliente": "Mariana Oliveira",
+    "cpf": "45678912345",
+    "idade": 62,
+    "valor_bruto": 500.0,
+    "categoria": "vestuario"
+  },
+  {
+    "id_transacao": "TX1004",
+    "cliente": "Roberto Rocha",
+    "cpf": "11122233344",
+    "idade": 18,
+    "valor_bruto": 200.0,
+    "categoria": "eletronicos"
+  },
+  {
+    "id_transacao": "TX1005",
+    "cliente": "Fernanda Lima",
+    "cpf": "55566677788",
+    "idade": 30,
+    "valor_bruto": -50.0,
+    "categoria": "vestuario"
+  },
+  {
+    "id_transacao": "TX1006",
+    "cliente": "Lucas Mendes",
+    "cpf": "123",
+    "idade": 40,
+    "valor_bruto": 100.0,
+    "categoria": "eletronicos"
+  },
+  {
+    "id_transacao": "TX1007",
+    "cliente": "Beatriz Castro",
+    "cpf": "88899900011",
+    "idade": 70,
+    "valor_bruto": 1000.0,
+    "categoria": "alimentos"
+  },
+  {
+    "id_transacao": "TX1008",
+    "cliente": "João Pedro Santos",
+    "cpf": "22233344455",
+    "idade": 15,
+    "valor_bruto": 0.0,
+    "categoria": "livros"
+  },
+  {
+    "id_transacao": "TX1009",
+    "cliente": "Patricia Alcantara",
+    "cpf": "33344455566",
+    "idade": 29,
+    "valor_bruto": 350.5,
+    "categoria": "eletronicos"
+  },
+  {
+    "id_transacao": "TX10010",
+    "cliente": "Gabriel Henrique Martins",
+    "cpf": "77788899900",
+    "idade": 60,
+    "valor_bruto": 120.0,
+    "categoria": "vestuario"
+  }
+]
