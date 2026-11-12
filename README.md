@@ -1,11 +1,11 @@
-# Projeto Final: Integração e Entrega Contínua (DevOps)
+	# Projeto Final: Integração e Entrega Contínua (DevOps)
 
-![CI](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/nxpoleone/DevOps/actions/workflows/ci.yml/badge.svg)
 
 Aplicação CLI em Python para processamento em lote de transações, com banco SQLite, aplicando:
 **testes (pytest)**, **Database DevOps com Expand-Contract (Alembic)**, **CI/CD (GitHub Actions)** e **observabilidade (logs + tempo de execução)**.
 
-> **Grupo:** _(nome 1, nome 2, nome 3, nome 4, nome 5)_
+> **Grupo:** _(AntonioCampello,EduardoGalvao,JoaoPedroNapoleone,LucasVinicius,MariannaGhiraldelli)_
 
 ---
 
